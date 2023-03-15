@@ -408,8 +408,10 @@ nav .navBottom h1{
 
 .photos {
     display: flex;
-    height: 50vh;
+    
     margin-top: 50px;
+    
+    
 }
 .photos div {
     flex: 1;
@@ -456,7 +458,7 @@ nav .navBottom h1{
 
 footer {
     display: flex;
-    margin-top: 180px;
+    
 }
   
 .footerLeft {
@@ -645,7 +647,7 @@ footer {
 
     footer {
         flex-direction: column;
-        margin-top: 150vh;
+        
     }
     .footerLeft {
         
